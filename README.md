@@ -8,6 +8,7 @@ I'm a developer from Mauritius 🇲🇺
 ![trophy](https://github-profile-trophy.vercel.app/?username=chellem&theme=onedark&row=1&column=-1)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chellem)
+<a href="https://dickriven.chellemboyee.com"><img src="https://img.shields.io/website?url=https://dickriven.chellemboyee.com"></a>	
 
 <!--
 **chellem/chellem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
