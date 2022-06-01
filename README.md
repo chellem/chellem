@@ -4,6 +4,11 @@ I'm a developer from Mauritius 🇲🇺
 
 ![Chellem's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellem&show_icons=true&theme=dark)
 
+## Profile Trophies 🏆
+![trophy](https://github-profile-trophy.vercel.app/?username=chellem&theme=onedark&row=1&column=-1)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=chellem)
+
 <!--
 **chellem/chellem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
