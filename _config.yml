@@ -1,0 +1,38 @@
+JEKYLL_ENV: production
+
+# Site
+repository: chellem/chellem.github.io
+favicon: images/favicon.ico
+
+version: 3
+
+remote_theme: nikolapeja6/business-card-jekyll-theme
+
+title: Dickriven Chellemboyee
+tagline: Senior Software Engineer
+url: https://dickriven.chellemboyee.com
+description: Hi, my name's Dickriven Chellemboyee and I'm a senior software engineer. I have experience making software.
+
+background:
+  color:    rgb(43,42,51)
+
+foreground:
+  color:    whitesmoke
+
+card:
+  name: Dickriven Chellemboyee
+  titles: Senior Software Engineer
+
+profiles:
+  github: chellem
+  #youtube:        user/YouTube
+  twitter: jchellem
+  #instagram: jchellem
+  #facebook:       facebook
+  linkedin: in/dickriven-chellemboyee
+  stackoverflow: 712120
+  #twitch:         twitch
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-minifier
