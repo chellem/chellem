@@ -19,7 +19,7 @@
         <a href="https://www.facebook.com/{{ site.profiles.facebook }}" ><i class="fa-brands fa-facebook"></i></a>
         {% endif %}
         {% if site.profiles != nil and site.profiles.linkedin != nil %}
-        <a href="https://www.linkedin.com/{{ site.profiles.linkedin }}" onmouseenter="highlightIcon(this)" onmouseleave="normalizeIcon(this)"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+        <a href="https://www.linkedin.com/{{ site.profiles.linkedin }}"><i class="fa-brands fa-linkedin fa-2xl" onmouseenter="highlightIcon(this)" onmouseleave="normalizeIcon(this)"></i></a>
         {% endif %}
         {% if site.profiles != nil and site.profiles.github != nil %}
         <a href="https://github.com/{{ site.profiles.github }}"><i class="fa-brands fa-github fa-2xl"></i></a>
