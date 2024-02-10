@@ -49,8 +49,11 @@ a:hover {
 }
 
 .btns {
-	display: inline-block;
-	clear: both;
+	display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: space-evenly;
+    padding: 30px;
 }
 
 .icon {
