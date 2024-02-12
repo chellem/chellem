@@ -13,12 +13,6 @@ tagline: Senior Software Engineer
 url: https://dickriven.chellemboyee.com
 description: Hi, my name's Dickriven Chellemboyee and I'm a senior software engineer. I have experience making software.
 
-background:
-  color:    rgb(43,42,51)
-
-foreground:
-  color:    whitesmoke
-
 card:
   name: Dickriven Chellemboyee
   titles: Senior Software Engineer
@@ -34,6 +28,10 @@ profiles:
   stackoverflow: 712120
   #twitch:         twitch
 
+jekyll_tidy:
+  compress_html: true
+
 plugins:
  - jekyll-seo-tag
  - jekyll-minifier
+ - jekyll-tidy

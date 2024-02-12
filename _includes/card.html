@@ -1,13 +1,13 @@
 
 <div class="card">
-    <h1> 
+    <h1>
         {% if site.card != nil and site.card.name != nil %}
             {{ site.card.name }}
         {% else %}
             John Doe
         {% endif %}
     </h1>
-    <h3> 
+    <h3>
         {% if site.card != nil and site.card.titles != nil %}
             {{ site.card.titles }}
         {% else %}
@@ -42,6 +42,5 @@
         {% if site.profiles != nil and site.profiles.twitch != nil %}
         <a href="https://www.twitch.tv/{{ site.profiles.twitch }}" ><img class="icon" id="twitch" src="assets/images/icons/twitch_standard.svg" alt="Twitch" onmouseenter="highlightIcon(this)" onmouseleave="normalizeIcon(this)"/></a>
         {% endif %}
-  
     </div>
-  </div>
+</div>
