@@ -28,8 +28,8 @@ profiles:
   stackoverflow: 712120
   #twitch:         twitch
 
-jekyll_tidy:
-  compress_html: true
+# jekyll_tidy:
+#   compress_html: true
 
 jekyll_analytics:
   GoogleAnalytics:
@@ -39,5 +39,5 @@ jekyll_analytics:
 plugins:
  - jekyll-seo-tag
  - jekyll-minifier
- - jekyll-tidy
  - jekyll-analytics
+ #- jekyll-tidy
