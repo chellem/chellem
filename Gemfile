@@ -6,3 +6,4 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-minifier", group: :jekyll_plugins
 gem "jekyll-tidy", group: :jekyll_plugins
 gem "webrick"
+gem 'jekyll-analytics'

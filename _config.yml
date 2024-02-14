@@ -31,7 +31,13 @@ profiles:
 jekyll_tidy:
   compress_html: true
 
+jekyll_analytics:
+  GoogleAnalytics:
+    id: 359786213
+    anonymizeIp: false
+
 plugins:
  - jekyll-seo-tag
  - jekyll-minifier
  - jekyll-tidy
+ - jekyll-analytics
