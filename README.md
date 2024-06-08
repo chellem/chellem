@@ -4,10 +4,7 @@ I'm a developer from Mauritius 🇲🇺
 
 ![Chellem's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellem&show_icons=true&theme=dark)
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chellem&theme=dark)
-
-## Profile Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=chellem&theme=onedark&row=1&column=-1)
-
+<!--
 ### Languages 🔤
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -29,17 +26,7 @@ I'm a developer from Mauritius 🇲🇺
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## How to reach me 📫
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickriven-chellemboyee)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jchellem)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chellem/chellem/issues)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=chellem)
-[![Website dickriven.chellemboyee.com](https://img.shields.io/website-up-down-green-red/https/dickriven.chellemboyee.com.svg)](https://dickriven.chellemboyee.com/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/chellem/chellem/issues)
-
-
-<!--
 **chellem/chellem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
