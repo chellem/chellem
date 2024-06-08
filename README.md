@@ -3,7 +3,7 @@
 I'm a developer from Mauritius 🇲🇺
 <!--
 ![Chellem's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellem&show_icons=true&theme=dark)-->
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chellem&theme=dark)
+![Chellem's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chellem&theme=dark)
 <!--
 ### Languages 🔤
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
