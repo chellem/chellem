@@ -1,6 +1,5 @@
 # Hi, I'm Chellem 👋
 
-I'm a developer from Mauritius 🇲🇺
 <!--
 ![Chellem's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellem&show_icons=true&theme=dark)-->
 ![Chellem's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chellem&theme=dark)
